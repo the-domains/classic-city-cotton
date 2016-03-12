@@ -1,7 +1,7 @@
 name: Classic City Cotton
 favicon: null
-layout_spectrum: 0.78998545370996
-typography_spectrum: 0.47039549774490297
+layout_spectrum: 1
+typography_spectrum: 0.98998
 cta:
   domain: null
   bucket: null
